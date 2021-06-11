@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Final-Image-Target_40" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_39" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_38" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_37" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_36" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_35" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_34" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_31" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_30" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_29" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_28" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_27" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_26" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_25" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_19" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_18" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_17" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_11" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_10" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_09" size="1.000000 0.960000" />
+    <ImageTarget name="Final-Image-Target_02" size="1.000000 0.957778" />
+    <ImageTarget name="Final-Image-Target_01" size="1.000000 0.957778" />
+  </Tracking>
+</QCARConfig>

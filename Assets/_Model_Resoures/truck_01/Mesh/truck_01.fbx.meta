@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: d7ab3e6fbc0de8844a024c40ed41603b
+timeCreated: 1496077500
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: brake_Lighrs
+    100002: CarBody
+    100004: chassis
+    100006: chrome
+    100008: collider
+    100010: //RootNode
+    100012: FL
+    100014: FR
+    100016: front_Lights
+    100018: glass
+    100020: interior
+    100022: Lens
+    100024: Lens 1
+    100026: Lens_FL01
+    100028: Lens_FL01 1
+    100030: Lens_FL02
+    100032: Lens_FL02 1
+    100034: Lens_FL03
+    100036: Lens_FL03 1
+    100038: Lens_FR01
+    100040: Lens_FR01 1
+    100042: Lens_FR02
+    100044: Lens_FR02 1
+    100046: Lens_FR03
+    100048: lights
+    100050: lights_Brake
+    100052: lights_front
+    100054: lights_M
+    100056: lights_position_front_glows2
+    100058: RL
+    100060: RR
+    100062: wheels
+    400000: brake_Lighrs
+    400002: CarBody
+    400004: chassis
+    400006: chrome
+    400008: collider
+    400010: //RootNode
+    400012: FL
+    400014: FR
+    400016: front_Lights
+    400018: glass
+    400020: interior
+    400022: Lens
+    400024: Lens 1
+    400026: Lens_FL01
+    400028: Lens_FL01 1
+    400030: Lens_FL02
+    400032: Lens_FL02 1
+    400034: Lens_FL03
+    400036: Lens_FL03 1
+    400038: Lens_FR01
+    400040: Lens_FR01 1
+    400042: Lens_FR02
+    400044: Lens_FR02 1
+    400046: Lens_FR03
+    400048: lights
+    400050: lights_Brake
+    400052: lights_front
+    400054: lights_M
+    400056: lights_position_front_glows2
+    400058: RL
+    400060: RR
+    400062: wheels
+    2300000: CarBody
+    2300002: chassis
+    2300004: chrome
+    2300006: collider
+    2300008: FL
+    2300010: FR
+    2300012: glass
+    2300014: interior
+    2300016: lights_Brake
+    2300018: lights_front
+    2300020: lights_M
+    2300022: lights_position_front_glows2
+    2300024: RL
+    2300026: RR
+    3300000: CarBody
+    3300002: chassis
+    3300004: chrome
+    3300006: collider
+    3300008: FL
+    3300010: FR
+    3300012: glass
+    3300014: interior
+    3300016: lights_Brake
+    3300018: lights_front
+    3300020: lights_M
+    3300022: lights_position_front_glows2
+    3300024: RL
+    3300026: RR
+    4300000: chrome
+    4300002: interior
+    4300004: lights_M
+    4300006: CarBody
+    4300008: chassis
+    4300010: glass
+    4300012: RL
+    4300014: RR
+    4300016: FL
+    4300018: FR
+    4300020: lights_Brake
+    4300022: lights_position_front_glows2
+    4300024: lights_front
+    4300026: collider
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

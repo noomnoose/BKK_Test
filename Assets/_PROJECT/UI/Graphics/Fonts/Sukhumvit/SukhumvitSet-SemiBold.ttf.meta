@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: caadd5966a8230441889687911dd3c8e
+timeCreated: 1500439384
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sukhumvit Set
+  fontNames:
+  - Sukhumvit Set
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c2317991cda7c224d85e3929026af67b, type: 3}
+  - {fileID: 12800000, guid: 016688283482cd44f8d61a03871c61d5, type: 3}
+  - {fileID: 12800000, guid: 40d63aa8e0063af4a99d0c1d54e24905, type: 3}
+  - {fileID: 12800000, guid: 035b4b5eb7a20b94b96d4b0b68eeaa32, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

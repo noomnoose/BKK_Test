@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c90324f62494af349be6f818f54fed63
+timeCreated: 1500439540
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DB Helvethaica X
+  fontNames:
+  - DB Helvethaica X
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
