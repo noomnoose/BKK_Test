@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 60fbff0093123d5459be21603ad08679
+timeCreated: 1500027512
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Base
+    100004: bench_1
+    100006: bench_10
+    100008: bench_11
+    100010: bench_12
+    100012: bench_13
+    100014: bench_14
+    100016: bench_15
+    100018: bench_16
+    100020: bench_17
+    100022: bench_18
+    100024: bench_19
+    100026: bench_2
+    100028: bench_20
+    100030: bench_21
+    100032: bench_22
+    100034: bench_23
+    100036: bench_3
+    100038: bench_4
+    100040: bench_5
+    100042: bench_6
+    100044: bench_7
+    100046: bench_8
+    100048: bench_9
+    100050: fence
+    100052: road
+    400000: //RootNode
+    400002: Base
+    400004: bench_1
+    400006: bench_10
+    400008: bench_11
+    400010: bench_12
+    400012: bench_13
+    400014: bench_14
+    400016: bench_15
+    400018: bench_16
+    400020: bench_17
+    400022: bench_18
+    400024: bench_19
+    400026: bench_2
+    400028: bench_20
+    400030: bench_21
+    400032: bench_22
+    400034: bench_23
+    400036: bench_3
+    400038: bench_4
+    400040: bench_5
+    400042: bench_6
+    400044: bench_7
+    400046: bench_8
+    400048: bench_9
+    400050: fence
+    400052: road
+    2300000: Base
+    2300002: bench_1
+    2300004: bench_10
+    2300006: bench_11
+    2300008: bench_12
+    2300010: bench_13
+    2300012: bench_14
+    2300014: bench_15
+    2300016: bench_16
+    2300018: bench_17
+    2300020: bench_18
+    2300022: bench_19
+    2300024: bench_2
+    2300026: bench_20
+    2300028: bench_21
+    2300030: bench_22
+    2300032: bench_23
+    2300034: bench_3
+    2300036: bench_4
+    2300038: bench_5
+    2300040: bench_6
+    2300042: bench_7
+    2300044: bench_8
+    2300046: bench_9
+    2300048: fence
+    2300050: road
+    3300000: Base
+    3300002: bench_1
+    3300004: bench_10
+    3300006: bench_11
+    3300008: bench_12
+    3300010: bench_13
+    3300012: bench_14
+    3300014: bench_15
+    3300016: bench_16
+    3300018: bench_17
+    3300020: bench_18
+    3300022: bench_19
+    3300024: bench_2
+    3300026: bench_20
+    3300028: bench_21
+    3300030: bench_22
+    3300032: bench_23
+    3300034: bench_3
+    3300036: bench_4
+    3300038: bench_5
+    3300040: bench_6
+    3300042: bench_7
+    3300044: bench_8
+    3300046: bench_9
+    3300048: fence
+    3300050: road
+    4300000: road
+    4300002: Base
+    4300004: fence
+    4300006: bench_1
+    4300008: bench_2
+    4300010: bench_3
+    4300012: bench_4
+    4300014: bench_5
+    4300016: bench_6
+    4300018: bench_7
+    4300020: bench_8
+    4300022: bench_9
+    4300024: bench_10
+    4300026: bench_11
+    4300028: bench_12
+    4300030: bench_13
+    4300032: bench_14
+    4300034: bench_15
+    4300036: bench_16
+    4300038: bench_17
+    4300040: bench_18
+    4300042: bench_19
+    4300044: bench_20
+    4300046: bench_21
+    4300048: bench_22
+    4300050: bench_23
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
