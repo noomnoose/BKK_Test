@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Clay_jar_paint_pen" size="15.000000 15.000000" />
+    <ImageTarget name="3legs_15" size="15.000000 15.000000" />
+    <ImageTarget name="3legs" size="1.000000 1.000000" />
+    <ImageTarget name="Clay_jar_BW" size="1.000000 1.000000" />
+    <ImageTarget name="Clay_jar_paint_1" size="1.000000 1.000000" />
+    <ImageTarget name="Clay_jar_paint" size="1.000000 1.000000" />
+    <ImageTarget name="Clay_jar2" size="15.000000 15.000000" />
+    <ImageTarget name="Clay_jar1" size="10.000000 10.000000" />
+    <ImageTarget name="Clay_jar" size="1.000000 1.000000" />
+    <ImageTarget name="Plane_maker_2024Copy" size="20.000000 20.000000" />
+    <ImageTarget name="Plane_maker_2024" size="1.000000 1.000000" />
+    <ImageTarget name="Plane_maker_1024" size="1.000000 0.700000" />
+    <ImageTarget name="6new" size="1.000000 1.000000" />
+    <ImageTarget name="6" size="1.000000 1.000000" />
+    <ImageTarget name="_map9" size="20.000000 28.282951" />
+    <ImageTarget name="_map8" size="20.000000 28.282951" />
+    <ImageTarget name="_map7" size="20.000000 28.282951" />
+    <ImageTarget name="_map6" size="20.000000 28.282951" />
+    <ImageTarget name="_map5" size="20.000000 28.282951" />
+    <ImageTarget name="_map4" size="20.000000 28.282951" />
+    <ImageTarget name="_map3" size="20.000000 28.282951" />
+    <ImageTarget name="_map2" size="20.000000 28.282951" />
+    <ImageTarget name="_map1" size="20.000000 28.282951" />
+    <ImageTarget name="new_1" size="20.000000 20.000000" />
+    <ImageTarget name="uv_1" size="20.000000 20.000000" />
+    <ImageTarget name="apple_uv2" size="20.000000 20.000000" />
+    <ImageTarget name="apple_uv" size="20.000000 20.000000" />
+    <ImageTarget name="apple_ar" size="20.000000 11.250000" />
+  </Tracking>
+</QCARConfig>

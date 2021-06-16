@@ -30,11 +30,12 @@ public class VideoPlayerScript : MonoBehaviour
 
     void Update()
     {
-        if (ApplicationManage.instance != null)
-            if (ApplicationManage.instance.StillTracking == false)
-            {
-                this.gameObject.SetActive(false);
-            }
+        
+        //if (ApplicationManage.instance != null)
+        //    if (ApplicationManage.instance.StillTracking == false)
+        //    {
+        //        this.gameObject.SetActive(false);
+        //    }
 
         updatePlayerTimeLine();
 
